@@ -18,4 +18,6 @@ Dogecoin Percentage Change Prediction based on Elon Musk's Tweets (Sentiment Sco
 4. Prediction Part  - LSTM STACKED MODEL is used for predicting values, where 
                       there are features trained to model are sentiment score, ohlc , volume and percentage change.
                       File - 
+               
+/// Dataset to be considered is : Prediction_data.csv
  
