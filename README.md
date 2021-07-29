@@ -4,7 +4,7 @@ Dogecoin Percentage Change Prediction based on Elon Musk's Tweets (Sentiment Sco
 
 # Research is based on 4 parameters : 
 1. Extracting Elon Musk's tweets on dogecoin through Twint API 
-   Elon'sTweets.ipynb
+   Elon'sTweets.ipynb b
 
 2. Getting Sentiment Score of tweets through VADER
  
